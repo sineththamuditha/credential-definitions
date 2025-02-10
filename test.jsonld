@@ -1,6 +1,6 @@
 {
   "@context": {
-    "myvocab": "https://raw.githubusercontent.com/sineththamuditha/credential-definitions/refs/heads/main/test.jsonld#",
+    "myvocab": "https://raw.githubusercontent.com/sineththamuditha/credential-definitions/refs/heads/main/test.jsonl#",
     "credentialSubject": {
       "@id": "myvocab:credentialSubject"
     },
