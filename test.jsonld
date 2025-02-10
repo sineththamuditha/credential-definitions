@@ -11,6 +11,10 @@
     "birthDate": {
       "@id": "myvocab:birthDate",
       "@type": "xsd:date"
+    },
+    "someBullshit": {
+        "@id": "myvocab:someBullshit",
+        "@type": "xsd:string"
     }
   }
 }
