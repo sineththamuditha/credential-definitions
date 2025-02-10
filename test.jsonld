@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "myvocab": "https://raw.githubusercontent.com/yourusername/your-vocab/main/context.jsonld#",
+    "credentialSubject": {
+      "@id": "myvocab:credentialSubject"
+    },
+    "name": {
+      "@id": "myvocab:name",
+      "@type": "xsd:string"
+    },
+    "birthDate": {
+      "@id": "myvocab:birthDate",
+      "@type": "xsd:date"
+    }
+  }
+}
